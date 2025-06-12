@@ -25,15 +25,16 @@ SHA521: 8a0d06bf424c760e28d71ec55f430bcb10bc5d09e6579bb84a2aab31b786856dec389f31
 Package: vn.gsm.displayrecorder
 Version: 1.3.20K
 Architecture: iphoneos-arm
-Maintainer: PandeX <pandexprod@gmail.com>
+Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2464
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
-Section: System
-Homepage: https://pandexofficial.github.io/cydia/
+Section: !CydiaVn-Apps
+Homepage: http://cydia.vn/
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
 Author: Ryan Petrich <repo@cydia.vn>
-Depiction: https://pandexofficial.github.io/cydia/depictions/vn.gsm.displayrecorder_1.3.20K.html
+Depiction: http://cydia.vn/depic/t971/
 Name: Display Recorder
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 Filename: debs/vn.gsm.displayrecorder_1.3.20K.deb
 Depiction: https://pandexofficial.github.io/cydia/depictions/vn.gsm.displayrecorder.html
 Icon: https://pandexofficial.github.io/cydia/icons/vn.gsm.displayrecorder.png
