@@ -1,0 +1,20 @@
+-----------------------------
+Started up (12.06.2025 18:46:12)
+-----------------------------
+
+Loading repo: cydia.vn(12.06.2025 18:46:21)
+Completed loading: cydia.vn - found 0 debs(12.06.2025 18:46:21)
+Loading repo: https://cydia.vn(12.06.2025 18:46:29)
+Completed loading: https://cydia.vn - found 0 debs(12.06.2025 18:46:33)
+Loading repo: https://cydia.vn/(12.06.2025 18:46:48)
+Completed loading: https://cydia.vn/ - found 0 debs(12.06.2025 18:46:52)
+-----------------------------
+Started up (12.06.2025 18:47:04)
+-----------------------------
+
+Loading repo: http://apt.thebigboss.org/repofiles/cydia/(12.06.2025 18:47:06)
+Completed loading: http://apt.thebigboss.org/repofiles/cydia/ - found 0 debs(12.06.2025 18:47:11)
+-----------------------------
+Started up (12.06.2025 18:50:43)
+-----------------------------
+
